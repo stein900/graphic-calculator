@@ -1,0 +1,13 @@
+﻿  MyForm.cpp
+C:\Users\rapha\Desktop\O\E\Informatique\Dauriac\Cpp\Projet cpp\calculatrice graphique 2\MyForm.h(760,35): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\rapha\Desktop\O\E\Informatique\Dauriac\Cpp\Projet cpp\calculatrice graphique 2\MyForm.h(774,33): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\rapha\Desktop\O\E\Informatique\Dauriac\Cpp\Projet cpp\calculatrice graphique 2\MyForm.h(778,34): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\rapha\Desktop\O\E\Informatique\Dauriac\Cpp\Projet cpp\calculatrice graphique 2\MyForm.h(792,13): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+C:\Users\rapha\Desktop\O\E\Informatique\Dauriac\Cpp\Projet cpp\calculatrice graphique 2\MyForm.h(854,34): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\rapha\Desktop\O\E\Informatique\Dauriac\Cpp\Projet cpp\calculatrice graphique 2\MyForm.h(872,34): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\rapha\Desktop\O\E\Informatique\Dauriac\Cpp\Projet cpp\calculatrice graphique 2\MyForm.h(896,34): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\rapha\Desktop\O\E\Informatique\Dauriac\Cpp\Projet cpp\calculatrice graphique 2\MyForm.h(916,34): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\rapha\Desktop\O\E\Informatique\Dauriac\Cpp\Projet cpp\calculatrice graphique 2\MyForm.h(1398,26): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\rapha\Desktop\O\E\Informatique\Dauriac\Cpp\Projet cpp\calculatrice graphique 2\MyForm.h(1578,15): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+  MyForm.obj : module MSIL détecté ; liens incrémentiels désactivés pour MSIL ; édition de liens complète en cours
+  calculatrice graphique 2.vcxproj -> C:\Users\rapha\Desktop\O\E\Informatique\Dauriac\Cpp\Projet cpp\calculatrice graphique 2\x64\Debug\calculatrice graphique 2.exe

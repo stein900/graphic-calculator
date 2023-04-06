@@ -1,0 +1,15 @@
+X:\tout le reste\visual studio 2022 project\calculatrice graphique 2\x64\Debug\calculatrice graphique 2.vcxproj.AssemblyReference.cache
+X:\tout le reste\visual studio 2022 project\calculatrice graphique 2\x64\Debug\calculatrice graphique 2.vcxproj.SuggestedBindingRedirects.cache
+X:\tout le reste\visual studio 2022 project\calculatrice graphique 2\x64\Debug\calculatricegraphique2.MyForm.resources
+X:\tout le reste\visual studio 2022 project\calculatrice graphique 2\x64\Debug\calculatrice graphique 2.vcxproj.GenerateResource.cache
+X:\tout le reste\visual studio 2022 project\calculatrice graphique 2\x64\Debug\calculatrice graphique 2.exe
+C:\Users\rapha\Desktop\Etude\Informatique\Dauriac\Cpp\Projet cpp\calculatrice graphique 2\x64\Debug\calculatrice graphique 2.vcxproj.AssemblyReference.cache
+C:\Users\rapha\Desktop\Etude\Informatique\Dauriac\Cpp\Projet cpp\calculatrice graphique 2\x64\Debug\calculatrice graphique 2.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\rapha\Desktop\Etude\Informatique\Dauriac\Cpp\Projet cpp\calculatrice graphique 2\x64\Debug\calculatricegraphique2.MyForm.resources
+C:\Users\rapha\Desktop\Etude\Informatique\Dauriac\Cpp\Projet cpp\calculatrice graphique 2\x64\Debug\calculatrice graphique 2.vcxproj.GenerateResource.cache
+C:\Users\rapha\Desktop\Etude\Informatique\Dauriac\Cpp\Projet cpp\calculatrice graphique 2\x64\Debug\calculatrice graphique 2.exe
+C:\Users\rapha\Desktop\O\E\Informatique\Dauriac\Cpp\Projet cpp\calculatrice graphique 2\x64\Debug\calculatrice graphique 2.vcxproj.AssemblyReference.cache
+C:\Users\rapha\Desktop\O\E\Informatique\Dauriac\Cpp\Projet cpp\calculatrice graphique 2\x64\Debug\calculatrice graphique 2.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\rapha\Desktop\O\E\Informatique\Dauriac\Cpp\Projet cpp\calculatrice graphique 2\x64\Debug\calculatricegraphique2.MyForm.resources
+C:\Users\rapha\Desktop\O\E\Informatique\Dauriac\Cpp\Projet cpp\calculatrice graphique 2\x64\Debug\calculatrice graphique 2.vcxproj.GenerateResource.cache
+C:\Users\rapha\Desktop\O\E\Informatique\Dauriac\Cpp\Projet cpp\calculatrice graphique 2\x64\Debug\calculatrice graphique 2.exe
